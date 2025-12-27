@@ -1,0 +1,1 @@
+web: gunicorn mobileri.wsgi --log-file -
